@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(131, 131, 223);
+    margin: 0%;
+}
+
+h1{
+    padding: 20px;
+}
+.container1{
+        display: flex;
+        justify-content: space-between;
+        padding: 40px;
+        width: auto;
+}
+.container1 h1{
+    margin: 0;
+}
+.container2{
+        display: flex;
+        align-items: center;
+        justify-content: center
+}
+.container3{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: auto;
+}
+.container4{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: auto;
+}
+.container5{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: auto;   
+}
+#titleName{
+    text-align: center;
+    background-color: rgb(75, 75, 168);
+    color: rgb(255, 255, 255);
+    padding: 60px;
+    font-size: 40px;
+}
+
+#health1{
+    float: left;
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+
+#healthpara1{
+    text-align: left;
+    font-size: 20px;
+    padding: 50px;
+
+}
+#health2{
+    float: right;
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+
+#healthpara2{
+    text-align: left;
+    font-size: 20px;
+    padding: 50px;
+}
+#health3{
+    float: left;
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+
+#healthpara3{
+    text-align: left;
+    font-size: 20px;
+    padding: 50px;
+}
+#health4{
+    float: right;
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+
+#healthpara4{
+    text-align: left;
+    font-size: 20px;
+    padding: 50px;
+}
+#health5{
+    float: left;
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+
+#healthpara5{
+    text-align: justify;
+    font-size: 20px;
+    margin-right: 15px;
+    padding: 50px;
+}
